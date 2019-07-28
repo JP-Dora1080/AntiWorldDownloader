@@ -1,0 +1,2 @@
+# AntiWorldDownloader
+WorldDownloaderが入っている人をキックするプラグイン
