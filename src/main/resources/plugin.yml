@@ -1,0 +1,5 @@
+name: AntiWorldDownloader
+version: ${project.version}
+main: jp.dora.awd.Main
+authors: [Veulx]
+description: AntiWorldDownloader Plugin
